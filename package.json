@@ -1,6 +1,6 @@
 {
-  "name": "html-tailwindcss-boilerplate",
-  "version": "1.1.0",
+  "name": "js-tailwindcss-boilerplate",
+  "version": "1.2.0",
   "description": "",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack serve --mode development",
