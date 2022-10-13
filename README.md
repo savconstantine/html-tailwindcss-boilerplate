@@ -1,4 +1,4 @@
-# html-tailwindcss-boilerplate
+# js-tailwindcss-boilerplate
 
 ## Requirements
 
